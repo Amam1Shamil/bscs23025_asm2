@@ -1,8 +1,8 @@
 # Fine-Tuning ResNet-50 and U-Net on Small Image Datasets
 **ANN & Deep Learning — Assignment 02**
 
-**Author:** Fraz Liaqat  
-**Roll Number:** BSCS23133  
+**Author:** Amam Shamil
+**Roll Number:** BSCS23025 
 **Institution:** Information Technology University (ITU), Lahore  
 
 ---
@@ -16,10 +16,10 @@ Training deep learning models from scratch requires tens of thousands of labeled
 
 ## 📂 Repository Structure
 ```text
-BSCS23133-assignment2/
+BSCS23025-assignment2/
 │
 ├── notebook/
-│   └── bscs23133_asm02.ipynb         # Executed Google Colab notebook with outputs
+│   └── bscs23025_asm02.ipynb         # Executed Google Colab notebook with outputs
 │
 ├── results/
 │   ├── resnet_results.png            # ResNet-50 loss & accuracy curves
